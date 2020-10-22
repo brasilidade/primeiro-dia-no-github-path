@@ -1,0 +1,13 @@
+title: Primeiro dia no GitHub
+description: >-
+  Welcome to GitHub! We're so glad you're here. We know it can look overwhelming
+  at first, so we've put together a few of our favorite courses for people
+  logging in for the first time.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
